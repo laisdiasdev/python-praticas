@@ -1,0 +1,1 @@
+'''Crie um programa que leia o nome de sete pessoas. No final, mostre quantas pessoas ainda não atingiram a maioridade e diga quantas já são maiores.'''
